@@ -1,1 +1,1 @@
-<h1 align="center">	Programa directo UML</h1>
+<h1 align="center">	Programa directo </h1>
