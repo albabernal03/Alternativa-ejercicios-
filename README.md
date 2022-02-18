@@ -31,7 +31,7 @@ Clasificarlos respecto a su suma y a su producto.
 
 **SOLUCIÓN:**
 ```
-algoritmo ordenar4
+Algoritmo ordenar
   #ordenar a y b con la suma y el producto en orden creciente
 Entrada
   a,b: T -> COMPARABLE
