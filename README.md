@@ -105,6 +105,7 @@ poscondición
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
+Escribir el algoritmo de cálculo de la prima anual que se concederá a cada conductor.
 ```
 algoritmo prima_anual
 Entrada
