@@ -51,8 +51,11 @@ Realización
 poscondición
   a < b < c < d
 
-fin ordenar4 
+fin ordenar 
 ```
+
+**DIAGRAMA DE FLUJO:**
+
 <img width="739" alt="Captura de pantalla 2022-02-18 a las 12 24 35" src="https://user-images.githubusercontent.com/91721668/154678490-577d4439-49ac-42af-87e6-3cece4e09a7d.png">
 
 
@@ -105,7 +108,6 @@ poscondición
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
-Escribir el algoritmo de cálculo de la prima anual que se concederá a cada conductor.
 ```
 algoritmo prima_anual
 Entrada
