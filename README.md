@@ -27,7 +27,31 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 
 ## Ejercicio 2:<a name="id2"></a>
-***
+
+**SOLUCIÓN**
+```
+algoritmo ordenar4
+  #ordenar a y b con la suma y el producto en orden creciente
+Entrada
+  a,b: T -> COMPARABLE
+variable
+  c,d: (T, +, x) -> COMPARABLE
+Precondición
+  ninguna
+Realización
+  si a > b entonces intercambiar (a,b) fin si #añadimos c
+  si b > c entonces intercambiar (b,c) fin si 
+  si a > b entonces intercambiar (a,b) fin si # a < b < c, añadimos d
+  si  c > d entonces intercambiar (c,d) fin si
+  si a > b entonces intercambiar (a,b) fin si # a < b < c < d
+  c <- a + b; d <- a x b
+ fin si 
+
+poscondición
+  a < b < c < d
+
+fin ordenar4 
+```
 <img width="739" alt="Captura de pantalla 2022-02-18 a las 12 24 35" src="https://user-images.githubusercontent.com/91721668/154678490-577d4439-49ac-42af-87e6-3cece4e09a7d.png">
 
 
@@ -65,11 +89,6 @@ poscondición
 
  fin calculo descuento
  ``` 
- 
- **DIAGRAMA DE FLUJO:**
- ![Ejercicio 3 alternativa](https://user-images.githubusercontent.com/91721875/154678776-56a087bc-a822-47f5-8a0b-094cd85d8ea6.jpg)
-
- 
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
