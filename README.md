@@ -32,6 +32,7 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 ## Ejercicio 3:<a name="id3"></a>
 
+
 **SOLUCIÓN:**
 ```
 Algoritmo calculo descuento
@@ -64,6 +65,11 @@ poscondición
 
  fin calculo descuento
  ``` 
+ 
+ 
+ **DIAGRAMA FLUJO:**
+ 
+ 
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
