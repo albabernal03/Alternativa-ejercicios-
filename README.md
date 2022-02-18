@@ -53,7 +53,7 @@ Poscondición
 fin día_sucesor
 ```
 
-**Diagrama de flujo**
+**DIAGRAMA DE FLUJO**
 
 
 ***
