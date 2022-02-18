@@ -136,13 +136,163 @@ poscondición
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
+
+**SOLUCIÓN:**
+```
+Algoritmo calcular media
+#Vamos a calcular la media y en función de el resultaldo lo clasificamos
+
+Entrada
+ nota 1: real
+ nota 2: real
+ nota 3: real
+ nota 4: real
+ media: real
+
+Resultado: real
+
+Precondición 
+
+ 0 ≤ nota 1 ≤ 20
+ 0 ≤ nota 2 ≤ 20
+ 0 ≤ nota 3 ≤ 20
+ 0 ≤ nota 4 ≤ 20
+ media ≥ 0
+
+
+Realización
+
+  media = (nota1 + nota2 + nota3 + nota4)/4
+  si media > 15 entonces 
+    resultado <-- "Alumno con talento"
+  si no si 12 < media < 15 entonces 
+    resultado <-- "Alumno con capacidad"
+  si no 
+    #media < 12 entonces
+    resultado <-- "Alumno debe reorientarse"
+  fin si 
+
+Poscondición
+  media > 15 --> Resultado = "Alumno con talento"
+  12 < media < 15 --> Resultado = "Alumno con capacidad"
+  media < 12 --> Resultado = "Alumno debe reorientarse"
+
+Fin calcular media
+ ``` 
+ 
+ **DIAGRAMA DE FLUJO:**
+ ![Captura de pantalla 2022-02-18 a las 20 25 27](https://user-images.githubusercontent.com/91721886/154756237-9104eeac-abfe-4b0e-b436-12e6c2defa87.jpeg)
+
 ***
 
 ## Ejercicio 5:<a name="id5"></a>
+**SOLUCIÓN:**
+```
+Algoritmo calcular descuento por hijo
+#vamos a calcular el descuento que se aplica en el Parque Warner Madrid según la cantidad de hijos por familia
+
+Entrada 
+ hijo: entero
+ precio: real 
+
+Resultado: real
+
+Precondición
+ precio ≥ 0
+ hijo ≥ 0
+
+Realización 
+
+ si hijo = 0 o 1 entonces 
+  resultado = precio
+ si no si hijo = 2 entonces 
+  resultado <-- precio - (precio x 0.1)
+ si no si hijo = 3 entonces
+  resultado <-- precio - (precio x 0.15)
+ si no si hijo = 4 entonces 
+  resultado <-- precio - (precio x 0.18)
+ si no
+  #hijo ≥ 5 
+  precio - [precio x (0.18 + 0.01 x hijo)]
+ fin si 
+
+Poscondición
+ hijo = 0 --> Resultado = precio
+ hijo = 1 --> Resultado = precio
+ hijo = 2 --> Resultado = precio - (precio x 0.1)
+ hijo = 3 --> Resultado = precio - (precio x 0.15)
+ hijo = 4 --> Resultado = precio - (precio x 0.18)
+ hijo ≥ 5 --> Resultado = precio - [precio x (0.18 + 0.01 x hijo)]
+
+ Fin calcular descuento por hijo
+ ``` 
+ 
+ **DIAGRAMA DE FLUJO:**
+![Captura de pantalla 2022-02-18 a las 21 19 35](https://user-images.githubusercontent.com/91721886/154756470-8de18786-8413-49c2-9f9f-4641f244ecd0.jpeg)
+
 ***
 
 ## Ejercicio 6:<a name="id6"></a>
-***
+
+**SOLUCIÓN:**
+```
+Algoritmo precio (con descuento) por cantidad microprocesadores
+#vamos a calcular el precio con el descuento dependiendo de la cantidad de microprocesadores que se compren
+
+Entrada
+ precio: real
+ descuento: real
+
+Resultado: real
+
+Precondición
+ precio ≥ 0
+ 
+Realización
+  si 10000 < precio < 20000 entonces
+   resultado <-- precio - (precio x 0.10)
+  si no si 20001 < precio < 40000 entonces
+   resultado <-- precio - (precio x 0.15)
+  si no
+  #precio > 40000
+   resultado <-- precio - (precio x 0.2)
+  fin si
+
+Poscondición
+10000 < precio < 20000 --> Resultado = precio - (precio x 0.10) = descuento
+20001 < precio < 4000 --> Resultado = precio - (precio x 0.15) = descuento
+precio > 40000 --> Resultado = precio - (precio x 0.2) = descuento
+
+Fin precio por cantidad microprocesadores
+
+Algoritmo precio (con descuento) por procedencia cliente 
+#vamos a calcular el precio con el descuento dependiendo de la procedencia del cliente 
+
+Entrada
+ cliente:empresa1,empresa2
+ descuento: real
+Resultado: real
+
+Precondición
+  descuento ≥ 0
+
+Realización
+si cliente = empresa1 entonces
+  resultado <-- descuento - 0.2
+si no 
+#cliente = empresa2
+resultado <-- descuento + 0.1
+
+Poscondición
+cliente = empresa1 --> Resultado = descuento - 0.2
+cliente = empresa2 --> Resultado = descuento + 0.1
+
+Fin precio por procedencia cliente
+```
+
+**DIAGRAMA DE FLUJO:**
+
+![Captura de pantalla 2022-02-18 a las 22 16 52](https://user-images.githubusercontent.com/91721886/154762336-85e75455-53bf-4edc-afd1-b405ea7cd1b1.jpeg)
 
 ## Ejercicio 7:<a name="id7"></a>
 Un profesor planea organizar un viaje escolar. El coste del viaje depende de la cantidad de alumnos participantes.
