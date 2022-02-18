@@ -49,10 +49,12 @@ Poscondición
   d= sucesor del valor antiguo de d
 
 fin día_sucesor
+
 **Diagrama de flujo**
 
 
 ***
+
 ## Ejercicio 2:<a name="id2"></a> 
 Dados dos números cualesquiera, clasificarlos respecto a su suma y su producto.
 
