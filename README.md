@@ -142,7 +142,64 @@ poscondición
 ***
 
 ## Ejercicio 7:<a name="id7"></a>
-***
+**SOLUCIÓN**
+algoritmo: coste_trayecto
+
+Entrada
+  precio: 67,30 o 61,00
+
+Precondición
+  alumnos > 0
+
+Realización
+  si alumnos < 25 entonces 
+  precio = 67,30
+  si no si entonces 
+  precio = 61,00
+
+Poscondición
+  alumnos < 25 -> precio= 67,30
+  alumnos > 25 -> precio= 61,00
+
+fin coste_trayecto
+
+algoritmo: comida
+
+Entrada
+  precio: 3,50
+  día: d
+Precondición
+  ninguna
+Realización
+  precio = precio x d
+Poscondición
+  precio = 3,50 x días
+
+fin comida
+
+algoritmo: alojamiento
+Entrada
+  precio: 4,75 o 4 o 3,50
+Precondición
+  alumnos > 0
+Realización
+  si alumnos < 30 
+  precio = 4,75
+  si no si 31 < alumnos < 35 entonces
+  precio = 4
+  si no alumnos > 35 entonces
+  precio = 3,5
+Poscondición
+  alumnos < 30 -> precio= 4,75
+  31 < alumnos < 35 -> precio= 4
+  alumnos > 35 -> precio= 3,5
+fin alojamiento
+
+algoritmo coste_total
+  coste_total = coste_trayecto + comida + alojamiento
+
+ ```
+ **DIAGRAMA DE FLUJO**
 
 ## Ejercicio 8:<a name="id8"></a>
 ```
