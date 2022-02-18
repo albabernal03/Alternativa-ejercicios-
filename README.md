@@ -37,12 +37,12 @@ Algoritmo calculo descuento
 #vamos a calcular el tipo de descuento que se aplica dependiendo del precio
 
 Entrada
-precio: real 
+ precio: real 
 
 Resultado: real
 
 Precondición 
-precio ≥ 0
+ precio ≥ 0
 
 realización
 
