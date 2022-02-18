@@ -32,6 +32,7 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 ## Ejercicio 3:<a name="id3"></a>
 
+**SOLUCIÓN:**
 ```
 Algoritmo calculo descuento
 #vamos a calcular el tipo de descuento que se aplica dependiendo del precio
