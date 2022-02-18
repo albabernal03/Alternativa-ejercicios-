@@ -1,3 +1,21 @@
+<h1 align="center">	Ejercicios  de la Alternativa</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hemos realizado los ejercicios de la alternativa y para ello hemos creado el repositorio acorde a la siguiente dirección:https://github.com/albabernal03/Alternativa-ejercicios-/blob/main/README.md
 
 # Ejercicio 1: Sucesor de un DÍA de la semana
