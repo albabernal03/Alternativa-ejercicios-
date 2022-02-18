@@ -94,6 +94,7 @@ poscondición
  ``` 
  
  **DIAGRAMA DE FLUJO:**
+ 
  ![Ejercicio 3 alternativa](https://user-images.githubusercontent.com/91721875/154680297-673b3d6e-9aec-45d4-ae75-7a6c664e4bf5.jpg)
 
  ***
