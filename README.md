@@ -67,6 +67,9 @@ poscondición
  ``` 
  
  **DIAGRAMA DE FLUJO:**
+ ![Ejercicio 3 alternativa](https://user-images.githubusercontent.com/91721875/154678776-56a087bc-a822-47f5-8a0b-094cd85d8ea6.jpg)
+
+ 
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
