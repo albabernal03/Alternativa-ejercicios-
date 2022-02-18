@@ -143,6 +143,7 @@ poscondición
 
 ## Ejercicio 7:<a name="id7"></a>
 **SOLUCIÓN**
+```
 algoritmo: coste_trayecto
 
 Entrada
@@ -199,7 +200,9 @@ algoritmo coste_total
   coste_total = coste_trayecto + comida + alojamiento
 
  ```
+ 
  **DIAGRAMA DE FLUJO**
+ 
 
 ## Ejercicio 8:<a name="id8"></a>
 ```
