@@ -28,10 +28,10 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 ## Ejercicio 2:<a name="id2"></a>
 ***
+<img width="739" alt="Captura de pantalla 2022-02-18 a las 12 24 35" src="https://user-images.githubusercontent.com/91721668/154678490-577d4439-49ac-42af-87e6-3cece4e09a7d.png">
 
 
 ## Ejercicio 3:<a name="id3"></a>
-
 
 **SOLUCIÓN:**
 ```
@@ -65,11 +65,6 @@ poscondición
 
  fin calculo descuento
  ``` 
- 
- 
- **DIAGRAMA FLUJO:**
- 
- 
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
@@ -87,5 +82,6 @@ poscondición
 ## Ejercicio 8:<a name="id8"></a>
 
 
+![diagramadeflujoprimas](https://user-images.githubusercontent.com/91721668/154678448-b81ff449-1302-43bd-ab6f-639ef2fb4a7f.png)
 
 
