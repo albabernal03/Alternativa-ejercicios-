@@ -26,8 +26,7 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 
 ## Ejercicio 2:<a name="id2"></a> 
-Dados dos números culesquiera.
-Clasificarlos respecto a su suma y a su producto.
+Dados dos números cualesquiera, clasificarlos respecto a su suma y su producto.
 
 **SOLUCIÓN:**
 ```
