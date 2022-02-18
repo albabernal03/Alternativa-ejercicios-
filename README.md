@@ -11,36 +11,41 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del pseud
 ***
 
 ## Indice
-
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercicio 3](#id3)
+4. [Ejercicio 4](#id4)
+5. [Ejercicio 5](#id5)
+6. [Ejercicio 6](#id6)
+7. [Ejercicio 7](#id7)
+8. [Ejercicio 8](#id8)
 
 ***
 
-## Ejercio 1 
+## Ejercio 1:<a name="id1"></a>
+***
 
 
-
-## Ejercicio 2
-
-
-## Ejercicio 3
+## Ejercicio 2:<a name="id2"></a>
+***
 
 
-## Ejercicio 4
+## Ejercicio 3:<a name="id3"></a>
+***
 
+## Ejercicio 4:<a name="id4"></a>
+***
 
+## Ejercicio 5:<a name="id5"></a>
+***
 
-## Ejercicio 5 
+## Ejercicio 6:<a name="id6"></a>
+***
 
+## Ejercicio 7:<a name="id7"></a>
+***
 
-## Ejercicio 6 
-
-
-
-## Ejercicio 7 
-
-
-## Ejercicio 8
-
+## Ejercicio 8:<a name="id8"></a>
 
 
 
