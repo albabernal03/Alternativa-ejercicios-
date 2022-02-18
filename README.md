@@ -16,6 +16,7 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 4. [Ejercicio 4](#id4)
 5. [Ejercicio 5](#id5)
 6. [Ejercicio 6](#id6)
+
 7. [Ejercicio 7](#id7)
 8. [Ejercicio 8](#id8)
 
@@ -54,6 +55,8 @@ fin día_sucesor
 ```
 
 **DIAGRAMA DE FLUJO**
+
+![diagramadeflujodias](https://user-images.githubusercontent.com/91721590/154743275-26676e3b-d40d-4b00-a58d-890a2ff9e189.png)
 
 
 ***
