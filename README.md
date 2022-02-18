@@ -104,6 +104,7 @@ poscondición
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
+**SOLUCIÓN**
 ```
 algoritmo prima_anual
 Entrada
