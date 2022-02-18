@@ -65,6 +65,8 @@ poscondición
 
  fin calculo descuento
  ``` 
+ 
+ **DIAGRAMA DE FLUJO:**
  ***
 
 ## Ejercicio 4:<a name="id4"></a>
