@@ -208,11 +208,10 @@ algoritmo coste_total
  ```
  
  **DIAGRAMA DE FLUJO**
- 
+ ![diagramadeflujo](https://user-images.githubusercontent.com/91721590/154744242-801e484b-9a5e-479a-b731-929e2979f842.png)
 
 ## Ejercicio 8:<a name="id8"></a>
 ```
-algoritmo prima_anual
 Entrada
 
   variable
