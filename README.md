@@ -22,7 +22,7 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 ***
 
-## Ejercio 1:<a name="id1"></a>
+## Ejercicio 1:<a name="id1"></a>
 ***
 
 
