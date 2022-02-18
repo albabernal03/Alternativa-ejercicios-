@@ -7,7 +7,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/Alternativa-ej
 ***
 <h2>¿De qué trata esta tarea?</h2>
 
-En esta tarea hemos resuelto una serie de ejercicios a través del uso del pseudocódigo. Asimismo hemos añadido su correspondiente diagrama de flujo.
+En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pseudocódigo**. Asimismo hemos añadido su correspondiente diagrama de flujo.
 ***
 
 ## Indice
