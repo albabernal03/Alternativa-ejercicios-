@@ -2,7 +2,7 @@
 
 <h2>Repositorio:</h2>
 
-Este es el link del [repositorio]https://github.com/albabernal03/Alternativa-ejercicios-/blob/main/README.md
+Este es el link del [repositorio](https://github.com/albabernal03/Alternativa-ejercicios-/blob/main/README.md)
 
 
 
