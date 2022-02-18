@@ -49,6 +49,7 @@ Poscondición
   d= sucesor del valor antiguo de d
 
 fin día_sucesor
+```
 
 **Diagrama de flujo**
 
