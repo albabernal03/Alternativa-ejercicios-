@@ -104,7 +104,44 @@ poscondición
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
+```
+algoritmo prima_anual
+Entrada
 
+  variable
+    euro = €
+    kilómetro = km
+    años = a
+Precondición
+  prima_accidentes ≥ 0
+  prima ≥ 0
+Realización
+  si responsabilidad_accidente < 20% entonces
+  prima_accidentes = 0
+  si responsabilidad_accidente > 20% entonces
+  prima_accidentes > 0 
+    si num_accidentes = 2
+    prima_accidentes = prima / 2
+    si num_accidentes = 3
+    prima_accidentes = prima / 3
+    si num_accidentes > 3
+    prima_accidentes = prima
+
+  prima = prima_distancia + prima_antigüedad
+    prima_distancia = (o,o1 x €) x km hasta 400 €
+
+    prima_antigüedad(a partir 4 años) = 200 € + a x 20 €
+
+  prima_anual = prima - prima_accidentes
+
+Poscondición
+  prima_anual = prima - prima_accidentes
+  responsabilidad_accidente < 20% -> prima_accidentes =0
+  responsabilidad_accidente > 20% -> prima_accidentes >0
+  prima = prima_distancia + prima_antigüedad
+
+fin prima_anual
+```
 
 ![diagramadeflujoprimas](https://user-images.githubusercontent.com/91721668/154678448-b81ff449-1302-43bd-ab6f-639ef2fb4a7f.png)
 
