@@ -31,7 +31,39 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del pseud
 
 
 ## Ejercicio 3:<a name="id3"></a>
-***
+
+```
+Algoritmo calculo descuento
+#vamos a calcular el tipo de descuento que se aplica dependiendo del precio
+
+Entrada
+precio: real 
+
+Resultado: real
+
+Precondición 
+precio ≥ 0
+
+realización
+
+  Si precio < 100 entonces
+    resultado <- precio
+  Si no si 100 < precio < 500 entonces
+    resultado <- precio - (precio x 0,05)
+  Si no
+    #precio>500
+    resultado <- precio - (precio x 0,08)
+  fin si
+  
+poscondición
+
+ precio < 100 --> Resultado = precio
+ 100 < precio < 500 --> Resultado = precio - (precio x 0,05)
+ precio > 500 --> Resultado = precio - precio x (precio x 0,08)
+
+ fin calculo descuento
+ ``` 
+ ***
 
 ## Ejercicio 4:<a name="id4"></a>
 ***
