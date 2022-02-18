@@ -22,9 +22,37 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
+Dado un dia de la semana, printar el dia siguiente.
+```
+algoritmo: día_sucesor
+Entrada
+d: días {lunes; martes; miércoles; jueves; viernes; sábado; domingo}
+Precondición
+  ninguna
+Realización
+  (antiguo d = lunes-> d= martes)
+  o si no
+  (antiguo d = martes-> d= miércoles)
+  o si no
+  (antiguo d = miércoles-> d= jueves)
+  o si no
+  (antiguo d = jueves-> d= viernes)
+  o si no
+  (antiguo d = viernes-> d= sábado)
+  o si no
+  (antiguo d = sábado-> d= domingo)
+  o si no
+  (antiguo d = domingo-> d= lunes)
+  fin si
+
+Poscondición
+  d= sucesor del valor antiguo de d
+
+fin día_sucesor
+**Diagrama de flujo**
+
+
 ***
-
-
 ## Ejercicio 2:<a name="id2"></a> 
 Dados dos números cualesquiera, clasificarlos respecto a su suma y su producto.
 
