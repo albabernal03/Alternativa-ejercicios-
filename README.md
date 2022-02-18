@@ -145,6 +145,8 @@ poscondición
 ***
 
 ## Ejercicio 7:<a name="id7"></a>
+
+
 **SOLUCIÓN**
 ```
 algoritmo: coste_trayecto
