@@ -23,6 +23,8 @@ En esta tarea hemos resuelto una serie de ejercicios a través del uso del **pse
 
 ## Ejercicio 1:<a name="id1"></a>
 Dado un dia de la semana, printar el dia siguiente.
+**SOLUCION**
+
 ```
 algoritmo: día_sucesor
 Entrada
