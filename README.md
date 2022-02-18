@@ -1,10 +1,6 @@
 <h1 align="center">	Ejercicios  de la Alternativa</h1>
 
-
-
-
-
-
+<h2>Repositorio:</h2>
 
 
 
